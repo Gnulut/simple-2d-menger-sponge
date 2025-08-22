@@ -22,7 +22,9 @@ This project is a simple interactive visualization of the Menger Sponge fractal 
 
 ## Download (Windows)
 
-(WIP)
+[Release](https://github.com/Gnulut/simple-2d-menger-sponge/releases/tag/windows)<br>
+or<br>
+[Docs](docs)
 
 ## Building
 ### Build Requirement
